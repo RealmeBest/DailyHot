@@ -86,30 +86,30 @@ export const mainStore = defineStore("mainData", {
           order: 12,
           show: true,
         },
-        {
-          label: "豆瓣",
-          name: "douban_new",
-          order: 13,
-          show: true,
-        },
+        // {
+        //   label: "豆瓣",
+        //   name: "douban_new",
+        //   order: 13,
+        //   show: true,
+        // },
         {
           label: "原神",
           name: "genshin",
           order: 14,
           show: true,
         },
-        {
-          label: "LOL",
-          name: "lol",
-          order: 15,
-          show: true,
-        },
-        {
-          label: "快手",
-          name: "kuaishou",
-          order: 16,
-          show: true,
-        },
+        // {
+        //   label: "LOL",
+        //   name: "lol",
+        //   order: 15,
+        //   show: true,
+        // },
+        // {
+        //   label: "快手",
+        //   name: "kuaishou",
+        //   order: 16,
+        //   show: true,
+        // },
         {
           label: "网易新闻",
           name: "netease",
